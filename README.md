@@ -41,6 +41,6 @@ This project demonstrates the setup of a secure file transfer system using **SFT
 
 ## Full Documentation
 
-You can view the full detailed documentation in [Developing a Secure File Transfer System Using SFTP on a Linux Server.docx](Developing a Secure File Transfer System Using SFTP on a Linux Server.docx)
+You can view the full detailed documentation in [Developing a Secure File Transfer System Using SFTP on a Linux Server.docx]
 
 ---
